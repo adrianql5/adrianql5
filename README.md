@@ -1,16 +1,27 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**adrianql5/adrianql5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Adrián, estudiante de Ingeniería Informática en la USC. Tengo una gran pasión por la programación y tengo habilidades en C y Python. Actualmente, estoy ampliando mis conocimientos aprendiendo Java y mejorando mi dominio de Git. También estoy en proceso de crear una página web.
 
-Here are some ideas to get you started:
+### 🔭 Actualmente estoy trabajando en:
+- Un proyecto de desarrollo web donde estoy creando una página web desde cero.
+- Mejorar mis habilidades en Java y dominar Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Actualmente estoy aprendiendo:
+- Conceptos avanzados en Java.
+- Mejores prácticas en desarrollo web.
+
+### 💬 Pregúntame sobre:
+- Programación en C y Python.
+- Mi proceso de aprendizaje de Java y Git.
+- Consejos y trucos para el desarrollo web.
+
+### 📫 Cómo contactarme:
+- [Email](mailto:adrian.quiroga@rai.usc.es)
+- [LinkedIn](https://www.linkedin.com/in/adrian-quiroga-linares-3b2569317/)
+- [Twitter]([https://twitter.com/tuperfil](https://x.com/398Adriaaan))
+
+### ⚡ Un dato curioso:
+- Me encanta resolver rompecabezas y jugar al ajedrez en mi tiempo libre.
+
+¡No dudes en revisar mis repositorios y conectar conmigo!
+
