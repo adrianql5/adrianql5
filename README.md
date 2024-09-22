@@ -1,10 +1,10 @@
 ### Presentación:
 --------------------
-¡Hola! 👋 Soy Adrián, estudiante de Ingeniería Informática en la USC. Tengo una gran pasión por la programación y tengo habilidades en C y Python. Actualmente, estoy ampliando mis conocimientos aprendiendo Java y mejorando mi dominio de Git. También estoy en proceso de crear una página web. Además, soy un entusiasta de los SO Linux y actualmente, tras probar Ubuntu, estoy tratando de configurar un ArchLinux.
+¡Hola! 👋 Soy Adrián, estudiante de Ingeniería Informática en la USC. Tengo una gran pasión por la programación y tengo habilidades en C, Java y Python. Actualmente, estoy ampliando mis conocimientos aprendiendo Java y mejorando mi dominio de Git. También estoy en proceso de crear una página web. Además, soy un entusiasta de los SO Linux y actualmente, tras probar Ubuntu, estoy tratando de configurar un ArchLinux.
 
 ### 🔭 Actualmente estoy trabajando en:
 ---------------------------------------
-- 🌐 Un proyecto de desarrollo web donde estoy creando una página web desde cero.
+- 🌐 Un proyecto en grupo para diseñar un Molopoly usando Java.
 - 🚀 Mejorar mis habilidades en Java y dominar Git.
 - 🖥️ Configurar ArchLinux.
 - 🔧 Montar un PC con piezas recicladas de otros ordenadores.
@@ -27,6 +27,7 @@
 - 📧 [Email](mailto:adrian.quiroga@rai.usc.es)
 - 💼 [LinkedIn](https://www.linkedin.com/in/adrian-quiroga-linares-3b2569317/)
 - 🐦 [Twitter](https://x.com/398Adriaaan)
+- 🎧 [Stats.fm](https://stats.fm/adrianql)
 
 ### ⚡ Un dato curioso:
 -----------------------
@@ -35,8 +36,8 @@
 ### Habilidades:
 ----------------
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
 
