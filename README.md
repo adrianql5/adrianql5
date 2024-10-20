@@ -43,4 +43,4 @@ Herramientas o lenguajes que uso habitualmente:
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/></code>
 
-Espero que algo de todo esto te sirva. ¡Por lo menos, lo he intentado! 😉
+Espero que algo de todo esto te sirva. 
