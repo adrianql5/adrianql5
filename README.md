@@ -27,7 +27,7 @@ Si te aburres mientras estudias o programas, aquí te dejo mi perfil de Spotify 
 
 ### 🌐 Habilidades:
 
-Herramienta o lenguajes que uso habitualmente:
+Herramientas o lenguajes que uso habitualmente:
 
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
@@ -44,4 +44,3 @@ Herramienta o lenguajes que uso habitualmente:
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/></code>
 
 Espero que algo de todo esto te sirva. ¡Por lo menos, lo he intentado! 😉
-
