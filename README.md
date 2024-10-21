@@ -1,7 +1,16 @@
 # Presentación:
-Soy Adrián, estudiante de Ingeniería Informática en la USC. El propósito de este perfil es, además de usarlo como mi nube personal gratuita, echar una mano a quienes estén en la carrera. Si te cuesta alguna asignatura, aquí encontrarás recursos que te pueden ayudar.
+Soy Adrián, estudiante de Ingeniería Informática en la USC. El propósito de este perfil es, además de usarlo como mi nube personal gratuita, echar una mano a quienes estén en la carrera. Si te cuesta alguna asignatura, aquí encontrarás recursos que te pueden ayudar. La mayoría de cosas útiles las aprendes por tu cuenta, pero para sacar el título hay que trabajar en bastantes cosas inútiles.
 
 --------------------------------
+
+## Guía
+Si estás en primero: [PrimeroCarrera](https://github.com/adrianql5/PrimeroCarrera)
+Si estás en segundo: [TeoríaSegundo](https://github.com/adrianql5/TEORIA-2-CARRERA/tree/main)
+                     [PrácticasRedes](https://github.com/adrianql5/REDES)
+                     [PrácticasAED](https://github.com/adrianql5/AED)
+                     [PracticasPOO](https://github.com/adrianql5/Monopoly)
+                     [PracticasSOI]//actualizaré link proximamente
+Las prácticas de segundo de carrera las subo a medida que cierren los plazos de entrega por si salta plagio.
 
 ## Proyectos en los que estoy trabajando:
 **Aprobar todas las asignaturas de la carrera** 🗣️🗣️🗣️
