@@ -4,13 +4,19 @@ Soy Adrián, estudiante de Ingeniería Informática en la USC. El propósito de 
 --------------------------------
 
 ## Guía
-Si estás en primero: [PrimeroCarrera](https://github.com/adrianql5/PrimeroCarrera)
-Si estás en segundo: [TeoríaSegundo](https://github.com/adrianql5/TEORIA-2-CARRERA/tree/main)
-                     [PrácticasRedes](https://github.com/adrianql5/REDES)
-                     [PrácticasAED](https://github.com/adrianql5/AED)
-                     [PracticasPOO](https://github.com/adrianql5/Monopoly)
-                     [PracticasSOI]//actualizaré link proximamente
-Las prácticas de segundo de carrera las subo a medida que cierren los plazos de entrega por si salta plagio.
+
+Si estás en primero:  
+- [PrimeroCarrera](https://github.com/adrianql5/PrimeroCarrera)
+
+Si estás en segundo:  
+- [TeoríaSegundo](https://github.com/adrianql5/TEORIA-2-CARRERA/tree/main)  
+- [PrácticasRedes](https://github.com/adrianql5/REDES)  
+- [PrácticasAED](https://github.com/adrianql5/AED)  
+- [PrácticasPOO](https://github.com/adrianql5/Monopoly)  
+- [PrácticasSOI] *(Actualizaré link próximamente)*
+
+Las prácticas de segundo de carrera las subo a medida que cierren los plazos de entrega para evitar problemas de plagio.
+---
 
 ## Proyectos en los que estoy trabajando:
 **Aprobar todas las asignaturas de la carrera** 🗣️🗣️🗣️
