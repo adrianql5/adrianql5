@@ -23,7 +23,7 @@ Las prácticas de segundo de carrera las subo a medida que cierren los plazos de
 
 --------------------------------------------
 
-### 💡 Para futuras generaciones de ingenieros:
+### 💡 Para futuras generaciones:
 Aquí tienes prácticamente todo lo necesario para sacar adelante las asignaturas más "asequibles". Además, hay material para comprender mejor las más difíciles. 
 
 Si te aburres mientras estudias o programas, aquí te dejo mi perfil de Spotify 🎧👇
