@@ -19,8 +19,8 @@ Las prácticas de segundo de carrera las subo a medida que cierren los plazos de
 ---
 
 ## Proyectos en los que estoy trabajando:
-**Aprobar todas las asignaturas de la carrera** 🗣️🗣️🗣️
-**Hacer un tutorial para poner linux, usar git y obsidian**
+- **Aprobar todas las asignaturas de la carrera** 🗣️🗣️🗣️
+- **Hacer un tutorial para poner linux, usar git y obsidian**
 --------------------------------------------
 
 ### 💡 Para futuras generaciones:
