@@ -1,5 +1,5 @@
 # Presentación:
-Soy Adrián, estudiante de Ingeniería Informática en la USC. El propósito de este perfil es, además de usarlo como mi nube personal gratuita, echar una mano a quienes estén en la carrera. Si te cuesta alguna asignatura, aquí encontrarás recursos que te pueden ayudar. La mayoría de cosas útiles las aprendes por tu cuenta, pero para sacar el título hay que trabajar en bastantes cosas inútiles.
+Soy Adrián, estudiante de Ingeniería Informática en la USC. El propósito de este perfil es, además de usarlo como mi nube personal gratuita, echar una mano a quienes estén en la carrera. Si te cuesta alguna asignatura, aquí puede que encuentres cosas útiles. La mayoría de cosas las aprendes por tu cuenta, pero para sacar el título hay que trabajar en bastantes cosas inútiles.
 
 --------------------------------
 
@@ -13,20 +13,20 @@ Si estás en segundo:
 - [PrácticasRedes](https://github.com/adrianql5/REDES)  
 - [PrácticasAED](https://github.com/adrianql5/AED)  
 - [PrácticasPOO](https://github.com/adrianql5/Monopoly)  
-- [PrácticasSOI] *(Actualizaré link próximamente)*
+- [PrácticasSOI](https://github.com/adrianql5/SOI)
 
 Las prácticas de segundo de carrera las subo a medida que cierren los plazos de entrega para evitar problemas de plagio.
 ---
 
 ## Proyectos en los que estoy trabajando:
 **Aprobar todas las asignaturas de la carrera** 🗣️🗣️🗣️
-
+**Hacer un tutorial para poner linux, usar git y obsidian**
 --------------------------------------------
 
 ### 💡 Para futuras generaciones:
 Aquí tienes prácticamente todo lo necesario para sacar adelante las asignaturas más "asequibles". Además, hay material para comprender mejor las más difíciles. 
 
-Si te aburres mientras estudias o programas, aquí te dejo mi perfil de Spotify 🎧👇
+Si te aburres mientras trabajas 🎧👇:
 
 - 🎧 [Stats.fm](https://stats.fm/adrianql)
 - 🎧 [Spotify: Mi música para programar](https://open.spotify.com/user/31adqxq4bchcdn4u4noj54d3umym?si=0a69a1f2eadf4fc1)
