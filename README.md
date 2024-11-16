@@ -29,7 +29,7 @@ Las prácticas de segundo de carrera las subo a medida que cierren los plazos de
 
 
 ### Trofeos
-[![trophy](https://github-profile-trophy.vercel.app/?username=hugocotoflorez&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=adrianql5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br/>
 
 ### 💡 Para futuras generaciones:
 Aquí tienes prácticamente todo lo necesario para sacar adelante las asignaturas más "asequibles". Además, hay material para comprender mejor las más difíciles. 
