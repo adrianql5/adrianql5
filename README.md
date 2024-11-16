@@ -23,6 +23,14 @@ Las prácticas de segundo de carrera las subo a medida que cierren los plazos de
 - **Hacer un tutorial para poner linux, usar git y obsidian**
 --------------------------------------------
 
+### Mis stats
+![](https://github-readme-stats.vercel.app/api?username=adrianql5&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianql5&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
+### Trofeos
+[![trophy](https://github-profile-trophy.vercel.app/?username=hugocotoflorez&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br/>
+
 ### 💡 Para futuras generaciones:
 Aquí tienes prácticamente todo lo necesario para sacar adelante las asignaturas más "asequibles". Además, hay material para comprender mejor las más difíciles. 
 
