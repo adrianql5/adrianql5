@@ -36,7 +36,6 @@ Si te aburres mientras trabajas 🎧👇:
 ### Conecta conmigo:
 - 📧 [Email](mailto:adrian.quiroga@rai.usc.es)
 - 💼 [LinkedIn](https://www.linkedin.com/in/adrian-quiroga-linares-3b2569317/)
-- 🐦 [Twitter](https://x.com/398Adriaaan)
 
 ---------------------
 
