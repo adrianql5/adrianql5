@@ -37,7 +37,7 @@ Aquí tienes prácticamente todo lo necesario para sacar adelante las asignatura
 Si te aburres mientras trabajas 🎧👇:
 
 - 🎧 [Stats.fm](https://stats.fm/adrianql)
-- 🎧 [Spotify: Mi música para programar](https://open.spotify.com/user/31adqxq4bchcdn4u4noj54d3umym?si=0a69a1f2eadf4fc1)
+- 🎧 [Spotify: Mi música para currar](https://open.spotify.com/user/31adqxq4bchcdn4u4noj54d3umym?si=0a69a1f2eadf4fc1)
 
 ------------------------------------------------
 
