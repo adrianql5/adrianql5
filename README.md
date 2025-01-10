@@ -2,7 +2,10 @@
 Soy Adrián, estudiante de Ingeniería Informática en la USC. El propósito de este perfil es, además de usarlo como mi nube personal gratuita, echar una mano a quienes estén en la carrera. Si te cuesta alguna asignatura, aquí puede que encuentres cosas útiles. La mayoría de cosas las aprendes por tu cuenta, pero para sacar el título hay que trabajar en bastantes cosas inútiles.
 
 --------------------------------
+## Importante
+No creo que nada de lo que esté escrito en los repositorios sea falso o erróneo (que seguro que hay algún error o confusión), sin embargo tampoco estoy doctorado en ningún ámbito. Cada uno escoge las fuentes que considere que para algo tenemos capacidad de decisión.
 
+-----------
 ## Guía
 
 Si estás en primero:  
@@ -15,7 +18,7 @@ Si estás en segundo:
 - [PrácticasPOO](https://github.com/adrianql5/Monopoly)  
 - [PrácticasSOI](https://github.com/adrianql5/SOI)
 
-Las prácticas de segundo de carrera las subo a medida que cierren los plazos de entrega para evitar problemas de plagio.
+
 ---
 
 ## Proyectos en los que estoy trabajando:
