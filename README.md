@@ -12,11 +12,8 @@ Si estás en primero:
 - [PrimeroCarrera](https://github.com/adrianql5/PrimeroCarrera)
 
 Si estás en segundo:  
-- [TeoríaSegundo](https://github.com/adrianql5/TEORIA-2-CARRERA/tree/main)  
-- [PrácticasRedes](https://github.com/adrianql5/REDES)  
-- [PrácticasAED](https://github.com/adrianql5/AED)  
-- [PrácticasPOO](https://github.com/adrianql5/Monopoly)  
-- [PrácticasSOI](https://github.com/adrianql5/SOI)
+- [2ºTeoria-PrimerCuatri](https://github.com/adrianql5/TEORIA-2-CARRERA/tree/main)  
+- [2ºPracticas-PrimerCuatri](https://github.com/adrianql5/2-PRACTICA-1-CUATRI)
 
 
 ---
