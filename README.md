@@ -7,12 +7,15 @@ No creo que nada de lo que esté escrito en los repositorios sea falso o erróne
 ## Guía
 
 Si estás en primero:  
-- [PrimeroCarrera](https://github.com/adrianql5/PrimeroCarrera)
+- [1ºTeoria-Practica](https://github.com/adrianql5/PrimeroCarrera)
 
 Si estás en segundo:  
 - [2ºTeoria-PrimerCuatri](https://github.com/adrianql5/TEORIA-2-CARRERA/tree/main)  
 - [2ºPracticas-PrimerCuatri](https://github.com/adrianql5/2-PRACTICA-1-CUATRI)
-
+- [2ºTeoria-SegundoCuatri](https://github.com/adrianql5/2-TEORIA-CUATRI-2)
+  - [Practicas-SOII](https://github.com/adrianql5/SOII)
+  - [Practicas-COGA](https://github.com/adrianql5/COGA)
+  - [Practicas-ARCOMP](https://github.com/adrianql5/ARQCO)
 
 ## Proyectos en los que estoy trabajando:
 - **Aprobar todas las asignaturas de la carrera**
