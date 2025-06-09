@@ -13,10 +13,7 @@ Si estás en segundo:
 - [2ºTeoria-PrimerCuatri](https://github.com/adrianql5/TEORIA-2-CARRERA/tree/main)  
 - [2ºPracticas-PrimerCuatri](https://github.com/adrianql5/2-PRACTICA-1-CUATRI)
 - [2ºTeoria-SegundoCuatri](https://github.com/adrianql5/2-TEORIA-CUATRI-2)
-  - [Practicas-SOII](https://github.com/adrianql5/SOII)
-  - [Practicas-ARCOMP](https://github.com/adrianql5/ARQCO)
-  - [Practicas-XEFE](https://github.com/adrianql5/XEFE)
-  - [Practicas-BDII](https://github.com/adrianql5/BDII)
+- [2ºPracticas-SegundoCuatri](https://github.com/adrianql5/2-PRACTICA-2-CUATRI)
 
 ## Proyectos en los que estoy trabajando:
 - **Aprobar todas las asignaturas de la carrera**
