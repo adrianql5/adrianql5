@@ -22,12 +22,6 @@ Si estás en segundo:
 ## 💡 Para futuras generaciones:
 Aquí tienes prácticamente todo lo necesario para sacar adelante las asignaturas más "asequibles". Además, hay material para comprender mejor las más difíciles. 
 
-Si te aburres mientras trabajas 🎧👇:
-
-- 🎧 [Stats.fm](https://stats.fm/adrianql)
-- 🎧 [Spotify: Mi música para currar](https://open.spotify.com/user/31adqxq4bchcdn4u4noj54d3umym?si=0a69a1f2eadf4fc1)
-
-
 Espero que algo de todo esto te sirva. 
 
 Si este repositorio te ha resultado útil y quieres invitarme a un café, puedes hacerlo aquí: [Buy me a coffee](https://studio.buymeacoffee.com/dashboard)
