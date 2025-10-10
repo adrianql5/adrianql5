@@ -22,7 +22,7 @@ Mi objetivo es recopilar lo más práctico y relevante para avanzar en los estud
 &nbsp;
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/fB1sFiJHi9kAAAAd/shidoinu-shido.gif" width="70%"/>
+  <img src="https://media1.tenor.com/m/fB1sFiJHi9kAAAAd/shidoinu-shido.gif" width="60%"/>
 </p>
 
 &nbsp;
@@ -31,56 +31,100 @@ Mi objetivo es recopilar lo más práctico y relevante para avanzar en los estud
 
 # 2. Guía rápida
 
+Esta sección te ayuda a navegar por los principales recursos del repositorio según el curso en el que estés.  
+**Recuerda:** *Las prácticas del primer cuatrimestre de tercero no las subo para evitar problemas de plagio o suspensos.*
+
 ## 2.1 Si estás en primero:
-- [Teoría y práctica](https://github.com/adrianql5/PrimeroCarrera)
+- [Teoría y práctica 1º](https://github.com/adrianql5/PrimeroCarrera)
 
 ## 2.2 Si estás en segundo:
-- [Teoría Primer Cuatri](https://github.com/adrianql5/TEORIA-2-CARRERA/tree/main)
-- [Prácticas Primer Cuatri](https://github.com/adrianql5/2-PRACTICA-1-CUATRI)
-- [Teoría Segundo Cuatri](https://github.com/adrianql5/2-TEORIA-CUATRI-2)
-- [Prácticas Segundo Cuatri](https://github.com/adrianql5/2-PRACTICA-2-CUATRI)
+- [Teoría 2º - Primer Cuatri](https://github.com/adrianql5/TEORIA-2-CARRERA/tree/main)
+- **(No se publican prácticas del primer cuatri para evitar suspensos por plagio)**
+- [Teoría 2º - Segundo Cuatri](https://github.com/adrianql5/2-TEORIA-CUATRI-2)
+- [Prácticas 2º - Segundo Cuatri](https://github.com/adrianql5/2-PRACTICA-2-CUATRI)
 
 ## 2.3 Si estás en tercero:
-- [Teoria Primer Cuatri]
-
----
-
-## 3. Proyectos Personales en Marcha
-
-- **Aprobar todas las asignaturas de la carrera**  
-- **Explicación detallada de como Instalar Debian en Linux**
-- **Explicación de como usar Hyprland en Debian**
-- **Crear Scripts de Instalación de Hyprland customizados para mi con cosas utiles para todos**
-- **Explicar git**
-- **Aprender a usar IA en local y explicar sus ventajas con ollama**
-- Aprender sobre workflows
+- [Teoría 3º - Primer Cuatri](https://github.com/adrianql5/3-TEORIA-1-CUATRI)
 
 &nbsp;
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/QTHsWVGT4M0AAAAd/vibe-coding-vibes.gif" width="60%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwY3JtamJkemY3bmNhY2RsMDFtb2I5bTBydHpsY290c3piYmI4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STfDsIEgsOU3S/giphy.gif" width="70%"/>
 </p>
 
 &nbsp;
 
 ---
 
-## 4. Para futuras generaciones
+# 3. Proyectos Personales en Marcha
 
-Aquí tienes prácticamente todo lo necesario para sacar adelante las asignaturas más asequibles.  
-También hay material para comprender mejor las más difíciles.  
-Espero que te sirva de ayuda, aunque recuerda que aquí puede haber algún error o confusión: revisa todo y usa siempre tus propias fuentes.
+- **Aprobar todas las asignaturas de la carrera**  
+
+- **Guías y tutoriales de sistemas:**
+  - Instalación detallada de **Debian** en Linux (con consejos y trucos para principiantes).
+  - Uso de **Hyprland** en Debian: cómo configurarlo y aprovechar sus ventajas.
+  - Scripts personalizados para instalar Hyprland con herramientas y utilidades pensadas para todos.
+
+- **Control de versiones y automatización:**
+  - Explicación sencilla y práctica de cómo usar **git** en proyectos personales y académicos.
+  - Introducción a **workflows** para automatizar tareas y mejorar la productividad.
+
+- **Inteligencia Artificial en local:**
+  - Aprender a usar IA en tu propio ordenador con **Ollama**.
+  - Guía sobre ventajas, instalación y posibles usos prácticos para estudiantes y curiosos.
+
+&nbsp;
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/QTHsWVGT4M0AAAAd/vibe-coding-vibes.gif" width="50%"/>
+</p>
+
+&nbsp;
 
 ---
 
-## ☕ Apóyame
+# 5. Algunas Herramientas que he Aprendido y Usado
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="45" height="45"/>      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="45" height="45"/>               
+</p>
+
+---
+
+# 6. Para futuras generaciones
+
+En este repositorio encontrarás casi todo lo necesario para superar las asignaturas más asequibles, y también recursos que te ayudarán a entender mejor las más complicadas.  
+La idea es que puedas avanzar con una referencia útil y práctica, pero recuerda: aquí puede haber algún error o confusión.  
+Revisa siempre lo que estudias, consulta otras fuentes y toma tus propias decisiones. 
+
+---
+
+# 5. Apóyame (si te apetece)
 
 Si este repositorio te ha resultado útil y quieres invitarme a un café, puedes hacerlo aquí (o la cafeta tb me sirve): [Buy me a coffee](https://studio.buymeacoffee.com/dashboard)
 
 &nbsp;
 
 <p align="center">
-  <img src="[https://media1.tenor.com/m/QTHsWVGT4M0AAAAd/vibe-coding-vibes.gif](https://media1.tenor.com/m/lquFMyMh8zYAAAAC/lebron-james-dunk.gif)" width="60%"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZnNTk2YWh6OGJ2YWxrcDlmNnFhbjUzMWpod3p1c25idXFiMHRvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qAZloNlpuwo5oSQ/giphy.gif" width="60%"/>
 </p>
 
 &nbsp;
