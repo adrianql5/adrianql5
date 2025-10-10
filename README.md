@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=180&section=header&text=adrianql5%20%7C%20Dark%20Venom%20Dev&fontSize=60&fontAlign=50&fontAlignY=50&fontColor=F1F1F1&stroke=4F0088&strokeWidth=2&animation=scaleIn&desc=Innovador%20del%20Código%20en%20la%20Oscuridad&descSize=24&descAlign=50&descAlignY=70&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:1a237e,100:6a1b9a&height=170&section=header&text=Adrian%20QL5%20%7C%20Estudiante%20USC&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=2D9CFF&strokeWidth=2&animation=fadeIn&desc=Explorando%20el%20mundo%20de%20la%20tecnolog%C3%ADa&descSize=22&descAlign=50&descAlignY=70)
 
 Soy Adrián, estudiante de Ingeniería Informática en la USC. El propósito de este perfil es, además de usarlo como mi nube personal gratuita, echar una mano a quienes estén en la carrera. Si te cuesta alguna asignatura, aquí puede que encuentres cosas útiles. La mayoría de cosas las aprendes por tu cuenta, pero para sacar el título hay que trabajar en bastantes cosas inútiles.
 
