@@ -135,9 +135,7 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 </table>
 
 <!-- Snake animation debajo -->
-<div align="center">
-  <img src="https://github.com/adrianql5/adrianql5/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="95%"/>
-</div>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
