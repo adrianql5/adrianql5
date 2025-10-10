@@ -113,6 +113,9 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31oziurcozy5dh2qymzlwgwt2l2q&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+
+![Snake animation](https://github.com/adrianql5/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 # 7. Para Futuras Generaciones
