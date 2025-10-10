@@ -6,7 +6,7 @@
 
 ---
 
-# 1. Sobre este perfil
+# 1. Sobre este Perfil
 
 ¡Hola! Soy Adrián Quiroga Linares.
 
@@ -29,7 +29,7 @@ Mi objetivo es recopilar lo más práctico y relevante para avanzar en los estud
 
 ---
 
-# 2. Guía rápida
+# 2. Guía Rápida
 
 Esta sección te ayuda a navegar por los principales recursos del repositorio según el curso en el que estés.  
 **Recuerda:** *Las prácticas del primer cuatrimestre de tercero no las subo para evitar problemas de plagio o suspensos.*
@@ -109,7 +109,13 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 
 ---
 
-# 6. Para futuras generaciones
+# 6. Mi hIstorial de GitHub
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31oziurcozy5dh2qymzlwgwt2l2q&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
+# 7. Para Futuras Generaciones
 
 En este repositorio encontrarás casi todo lo necesario para superar las asignaturas más asequibles, y también recursos que te ayudarán a entender mejor las más complicadas.  
 La idea es que puedas avanzar con una referencia útil y práctica, pero recuerda: aquí puede haber algún error o confusión.  
@@ -117,7 +123,7 @@ Revisa siempre lo que estudias, consulta otras fuentes y toma tus propias decisi
 
 ---
 
-# 5. Apóyame (si te apetece)
+# 8. Apóyame (si te apetece)
 
 Si este repositorio te ha resultado útil y quieres invitarme a un café, puedes hacerlo aquí (o la cafeta tb me sirve): [Buy me a coffee](https://studio.buymeacoffee.com/dashboard)
 
