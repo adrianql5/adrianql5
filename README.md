@@ -111,20 +111,22 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 
 # 6. Mi historial en GitHub
 
-<!-- Spotify Card -->
-[![Escuchando en Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31oziurcozy5dh2qymzlwgwt2l2q&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<!-- Panel ancho usando tabla para aprovechar el largo de la ventana -->
 
-<div align="center">
-
-<!-- Tarjetas alineadas lado a lado -->
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <!-- Spotify a la izquierda -->
+    <td valign="top" width="32%" align="center">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img width="250" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oziurcozy5dh2qymzlwgwt2l2q&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false" alt="Escuchando en Spotify"/>
+      </a>
+    </td>
+    <!-- Stats y Lenguajes a la derecha, uno arriba del otro -->
+    <td valign="top" align="center" width="68%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="200" src="https://github-readme-stats.vercel.app/api?username=adrianql5&show_icons=true&theme=radical" alt="GitHub Stats de adrianql5"/>
       </a>
-    </td>
-    <td>
+      <br/>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianql5&layout=compact&theme=radical" alt="Top Lenguajes de adrianql5"/>
       </a>
@@ -133,8 +135,8 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 </table>
 
 <!-- Snake animation debajo -->
-<img src="https://github.com/adrianql5/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%"/>
-
+<div align="center">
+  <img src="https://github.com/adrianql5/adrianql5/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="95%"/>
 </div>
 
 ---
