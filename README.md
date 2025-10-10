@@ -109,11 +109,33 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 
 ---
 
-# 6. Mi hIstorial de GitHub
+# 6. Mi historial en GitHub
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31oziurcozy5dh2qymzlwgwt2l2q&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<!-- Spotify Card -->
+[![Escuchando en Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31oziurcozy5dh2qymzlwgwt2l2q&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-![Snake animation](https://github.com/adrianql5/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+<!-- Tarjetas alineadas lado a lado -->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=adrianql5&show_icons=true&theme=radical" alt="GitHub Stats de adrianql5"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianql5&layout=compact&theme=radical" alt="Top Lenguajes de adrianql5"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Snake animation debajo -->
+<img src="https://github.com/adrianql5/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%"/>
+
+</div>
 
 ---
 
