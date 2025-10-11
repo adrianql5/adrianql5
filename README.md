@@ -15,16 +15,22 @@ Este repositorio es mi nube personal y también un espacio donde intento echar u
 
 Mi objetivo es recopilar lo más práctico y relevante para avanzar en los estudios. Además, encontrarás algún que otro repositorio que, aunque no esté directamente relacionado con la carrera, puede resultar interesante o útil.
 
+<table width="100%">
+  <tr>
+    <td width="62%" valign="top">
+
 ## **Nota importante:**  
- No soy experto ni doctor en ningún campo. Aunque trato de que todo esté correcto, es posible que haya algún error o confusión. Si ves algo que no cuadra, coméntalo en el repositorio: así lo podré corregir, y al menos los demás podrán ver la corrección.  
+No soy experto ni doctor en ningún campo. Aunque trato de que todo esté correcto, es posible que haya algún error o confusión. Si ves algo que no cuadra, coméntalo en el repositorio: así lo podré corregir, y al menos los demás podrán ver la corrección.  
   
- Por favor, tened cuidado con el plagio entre compañeros. Subo esto todo como referencia y guía, no para que se copien tal cual. La idea es que sirva para aprender y avanzar, no para copiar sin más.
+Por favor, tened cuidado con el plagio entre compañeros. Subo esto todo como referencia y guía, no para que se copien tal cual. La idea es que sirva para aprender y avanzar, no para copiar sin más.
 
 &nbsp;
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/fB1sFiJHi9kAAAAd/shidoinu-shido.gif" width="60%"/>
-</p>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media1.tenor.com/m/fB1sFiJHi9kAAAAd/shidoinu-shido.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 &nbsp;
 
