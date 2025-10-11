@@ -15,22 +15,15 @@ Este repositorio es mi nube personal y también un espacio donde intento echar u
 
 Mi objetivo es recopilar lo más práctico y relevante para avanzar en los estudios. Además, encontrarás algún que otro repositorio que, aunque no esté directamente relacionado con la carrera, puede resultar interesante o útil.
 
-<table width="100%">
-  <tr>
-    <td width="62%" valign="top">
+
 
 ## **Nota importante:**  
-No soy experto ni doctor en ningún campo. Aunque trato de que todo esté correcto, es posible que haya algún error o confusión. Si ves algo que no cuadra, coméntalo en el repositorio: así lo podré corregir, y al menos los demás podrán ver la corrección.  
-  
-Por favor, tened cuidado con el plagio entre compañeros. Subo esto todo como referencia y guía, no para que se copien tal cual. La idea es que sirva para aprender y avanzar, no para copiar sin más.
 
-&nbsp;
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://media1.tenor.com/m/fB1sFiJHi9kAAAAd/shidoinu-shido.gif" width="100%"/>
-    </td>
-  </tr>
-</table>
+<img align="right" width="320px" src="https://media1.tenor.com/m/fB1sFiJHi9kAAAAd/shidoinu-shido.gif" alt="Shido Inu"/>
+
+&nbsp;&nbsp;&nbsp;No soy experto ni doctor en ningún campo. Aunque trato de que todo esté correcto, es posible que haya algún error o confusión. Si ves algo que no cuadra, coméntalo en el repositorio: así lo podré corregir, y al menos los demás podrán ver la corrección.  
+
+&nbsp;&nbsp;&nbsp;Por favor, tened cuidado con el plagio entre compañeros. Subo esto todo como referencia y guía, no para que se copien tal cual. La idea es que sirva para aprender y avanzar, no para copiar sin más.
 
 &nbsp;
 
@@ -41,10 +34,14 @@ Por favor, tened cuidado con el plagio entre compañeros. Subo esto todo como re
 Esta sección te ayuda a navegar por los principales recursos del repositorio según el curso en el que estés.  
 **Recuerda:** *Las prácticas del primer cuatrimestre de tercero no las subo para evitar problemas de plagio o suspensos.*
 
+
+
 ## 2.1 Si estás en primero:
 - [Teoría y práctica](https://github.com/adrianql5/PrimeroCarrera)
 
 ## 2.2 Si estás en segundo:
+<img align="right" width="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwY3JtamJkemY3bmNhY2RsMDFtb2I5bTBydHpsY290c3piYmI4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STfDsIEgsOU3S/giphy.gif" alt="Coding Vibes"/>
+
 - [Teoría Primer Cuatri](https://github.com/adrianql5/TEORIA-2-CARRERA/tree/main)
 - [Prácticas Primer Cuatri](https://github.com/adrianql5/2-PRACTICA-1-CUATRI)
 - [Teoría Segundo Cuatri](https://github.com/adrianql5/2-TEORIA-CUATRI-2)
@@ -53,19 +50,14 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 ## 2.3 Si estás en tercero:
 - [Teoría 3º - Primer Cuatri](https://github.com/adrianql5/3-TEORIA-1-CUATRI)
 
-&nbsp;
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwY3JtamJkemY3bmNhY2RsMDFtb2I5bTBydHpsY290c3piYmI4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STfDsIEgsOU3S/giphy.gif" width="70%"/>
-</p>
-
-&nbsp;
-
 ---
 
 # 3. Proyectos Personales en Marcha
 
-- **Aprobar todas las asignaturas de la carrera**  
+- **Aprobar todas las asignaturas de la carrera**
+
+
+<img align="right" width="320px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV5empmYWh6NHE2M2JldW9zM2ExMXZkZGV3dGdra28yeTZwOG8zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBkRNdKHu8LZ75F5tR/giphy.gif"/>
 
 - **Guías y tutoriales de sistemas:**
   - Instalación detallada de **Debian** en Linux (con consejos y trucos para principiantes).
@@ -79,12 +71,6 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 - **Inteligencia Artificial en local:**
   - Aprender a usar IA en tu propio ordenador con **Ollama**.
   - Guía sobre ventajas, instalación y posibles usos prácticos para estudiantes y curiosos.
-
-&nbsp;
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/QTHsWVGT4M0AAAAd/vibe-coding-vibes.gif" width="50%"/>
-</p>
 
 &nbsp;
 
@@ -141,9 +127,11 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 
 # 7. Para Futuras Generaciones
 
-En este repositorio encontrarás casi todo lo necesario para superar las asignaturas más asequibles, y también recursos que te ayudarán a entender mejor las más complicadas.  
-La idea es que puedas avanzar con una referencia útil y práctica, pero recuerda: aquí puede haber algún error o confusión.  
-Revisa siempre lo que estudias, consulta otras fuentes y toma tus propias decisiones. 
+<img align="right" width="200px" src="https://media1.tenor.com/m/QTHsWVGT4M0AAAAd/vibe-coding-vibes.gif"/>
+
+- En este repositorio encontrarás casi todo lo necesario para superar las asignaturas más asequibles, y también recursos que te ayudarán a entender mejor las más complicadas.  
+- La idea es que puedas avanzar con una referencia útil y práctica, pero recuerda: aquí puede haber algún error o confusión.  
+- Revisa siempre lo que estudias, consulta otras fuentes y toma tus propias decisiones. 
 
 ---
 
