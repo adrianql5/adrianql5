@@ -63,6 +63,7 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
   - Instalación detallada de **Debian** en Linux (con consejos y trucos para principiantes).
   - Uso de **Hyprland** en Debian: cómo configurarlo y aprovechar sus ventajas.
   - Scripts personalizados para instalar Hyprland con herramientas y utilidades pensadas para todos.
+  - [Link a este proyecto](https://github.com/adrianql5/HyperDeb-Setup.git)
 
 - **Control de versiones y automatización:**
   - Explicación sencilla y práctica de cómo usar **git** en proyectos personales y académicos.
