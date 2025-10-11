@@ -1,20 +1,25 @@
-name: Generate Datas
+name: Generate Snake Game
+
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 0 * * *" # Ejecuta cada día a medianoche UTC
   workflow_dispatch:
+
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Generate Snake Files
+        uses: Platane/snk@v3
         with:
           github_user_name: adrianql5
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
