@@ -134,9 +134,9 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 
 ---
 
-# 8. Apóyame (si te apetece)
+# 8. Apóyame
 
-Si este repositorio te ha resultado útil y quieres invitarme a un café, puedes hacerlo aquí (o la cafeta tb me sirve): [Buy me a coffee](https://studio.buymeacoffee.com/dashboard)
+Si este repositorio te ha resultado útil y quieres invitarme a un café, puedes hacerlo aquí (en la cafetería también sirve): [Buy me a coffee](https://studio.buymeacoffee.com/dashboard)
 
 &nbsp;
 
