@@ -120,7 +120,11 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 </p>
 <br>
 
-![Snake animation](https://github.com/adrianql5/adrianql5/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/adrianql5/adrianql5/raw/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/adrianql5/adrianql5/raw/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/adrianql5/adrianql5/raw/output/github-snake.svg" />
+</picture>
 
 ---
 
