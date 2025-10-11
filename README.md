@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0F2027&height=200&section=header&text=El%20Templo&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn&fontFamily=Roboto%20Mono&desc=La%20Gu%C3%ADa%20Definitiva&descSize=34&descAlign=50&descAlignY=75&descFont=Roboto%20Mono&descFontColor=E0E0E0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C211&height=200&section=header&text=El%20Templo&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn&fontFamily=Roboto%20Mono&desc=La%20Gu%C3%ADa%20Definitiva&descSize=34&descAlign=50&descAlignY=75&descFont=Roboto%20Mono&descFontColor=E0E0E0" width="100%" />
+
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVia2VhYWxtMmFzcnY0OXhqMXlmZmxjdzZsNDEzNjhsMHVwN2tnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" width="70%"/>
@@ -111,28 +112,21 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 
 # 6. Mi historial en GitHub
 
-<!-- Panel ancho usando tabla para aprovechar el largo de la ventana -->
-
-<table width="100%">
-  <tr>
-    <!-- Spotify a la izquierda -->
-    <td valign="top" width="32%" align="center">
-      <a href="https://github.com/kittinan/spotify-github-profile">
-        <img width="250" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oziurcozy5dh2qymzlwgwt2l2q&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false" alt="Escuchando en Spotify"/>
-      </a>
-    </td>
-    <!-- Stats y Lenguajes a la derecha, uno arriba del otro -->
-    <td valign="top" align="center" width="68%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=adrianql5&show_icons=true&theme=radical" alt="GitHub Stats de adrianql5"/>
-      </a>
-      <br/>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianql5&layout=compact&theme=radical" alt="Top Lenguajes de adrianql5"/>
-      </a>
-    </td>
-  </tr>
+<br>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=adrianql5&theme=gruvbox&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianql&theme=gruvbox&hide_border=false" alt="ALX-13 streak" />
+</td>
+<td width="50%" align="center">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oziurcozy5dh2qymzlwgwt2l2q&cover_image=true&theme=default&show_offline=false&background_color=f5c211&interchange=false&profanity=true&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile"/>
+</td>
+</tr>
 </table>
+</p>
+<br>
 
 <!-- Snake animation debajo -->
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
@@ -158,5 +152,9 @@ Si este repositorio te ha resultado útil y quieres invitarme a un café, puedes
 </p>
 
 &nbsp;
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C211&height=200&section=footer" width="100%"  />
+
 
 ---
