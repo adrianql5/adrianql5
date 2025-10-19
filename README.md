@@ -72,6 +72,10 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 - **Inteligencia Artificial en local:**
   - Aprender a usar IA en tu propio ordenador con **Ollama**.
   - Guía sobre ventajas, instalación y posibles usos prácticos para estudiantes y curiosos.
+ 
+- **Guía de Supervivencia tecnológica**
+  - Como sobrevivir sin internet
+  - [Link a este proyecto](https://github.com/adrianql5/Survivor-Project.git) 
 
 &nbsp;
 
