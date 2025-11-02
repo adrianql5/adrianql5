@@ -42,12 +42,12 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 ## 2.2 Si estás en segundo:
 <img align="right" width="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwY3JtamJkemY3bmNhY2RsMDFtb2I5bTBydHpsY290c3piYmI4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STfDsIEgsOU3S/giphy.gif" alt="Coding Vibes"/>
 
-- [Teoría Primer Cuatri](https://github.com/adrianql5/TEORIA-2-CARRERA/tree/main)
+- [Teoría Primer Cuatri](https://github.com/adrianql5/2-TEORIA-1-CUATRI). [Versión PDF](https://github.com/adrianql5/2-TEORIA-1-CUATRI_PDF)
 - [Prácticas Primer Cuatri](https://github.com/adrianql5/2-PRACTICA-1-CUATRI)
-- [Versión PDF](https://github.com/adrianql5/2-PRACTICA-1-CUATRI_PDF)
-- [Teoría Segundo Cuatri](https://github.com/adrianql5/2-TEORIA-CUATRI-2)
+
+- [Teoría Segundo Cuatri](https://github.com/adrianql5/2-TEORIA-CUATRI-2). [Versión PDF](https://github.com/adrianql5/2-TEORIA-CUATRI-2_PDF)
 - [Prácticas Segundo Cuatri](https://github.com/adrianql5/2-PRACTICA-2-CUATRI)
-- [Versión PDF](https://github.com/adrianql5/2-PRACTICA-2-CUATRI_PDF)
+
 
 ## 2.3 Si estás en tercero:
 - [Teoría 3º - Primer Cuatri](https://github.com/adrianql5/3-TEORIA-1-CUATRI)
@@ -77,7 +77,7 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 - **Hackatones**
   - [Xuntos](https://github.com/adrianql5/Xuntos.git)
 
--**Automatizaciones con Crontab**
+- **Automatizaciones con Crontab**
   - [Sync-all](https://github.com/adrianql5/Sync-All.git)
 
 &nbsp;
