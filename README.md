@@ -59,29 +59,27 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 
 <img align="right" width="320px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV5empmYWh6NHE2M2JldW9zM2ExMXZkZGV3dGdra28yeTZwOG8zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBkRNdKHu8LZ75F5tR/giphy.gif"/>
 
-- **Guías y tutoriales de sistemas:**
+- **Guía sobre HyprDebian:**
   - Instalación detallada de **Debian** en Linux (con consejos y trucos para principiantes).
   - Uso de **Hyprland** en Debian: cómo configurarlo y aprovechar sus ventajas.
   - Scripts personalizados para instalar Hyprland con herramientas y utilidades pensadas para todos.
-  - [Link a este proyecto](https://github.com/adrianql5/HyperDeb-Setup.git)
+  - [Guía definitiva de HyprDebian](https://github.com/adrianql5/HyperDeb-Setup.git)
 
-- **Control de versiones y automatización:**
-  - Explicación sencilla y práctica de cómo usar **git** en proyectos personales y académicos.
-  - Introducción a **workflows** para automatizar tareas y mejorar la productividad.
+- **Control de autoría y copyright:**
+  - [License](https://github.com/adrianql5/License.git)
 
-- **Inteligencia Artificial en local:**
-  - Aprender a usar IA en tu propio ordenador con **Ollama**.
-  - Guía sobre ventajas, instalación y posibles usos prácticos para estudiantes y curiosos.
- 
 - **Guía de Supervivencia tecnológica**
-  - Como sobrevivir sin internet
-  - [Link a este proyecto](https://github.com/adrianql5/Survivor-Project.git) 
+  - [Como sobrevivir sin internet]
+  - (https://github.com/adrianql5/Survivor-Project.git)
+ 
+- **Hackatones**
+  - [Xuntos](https://github.com/adrianql5/Xuntos.git)
 
 &nbsp;
 
 ---
 
-# 5. Algunas Herramientas que he Aprendido y Usado
+# 4. Algunas Herramientas que he Aprendido y Usado
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
@@ -108,7 +106,7 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 
 ---
 
-# 6. Mi historial en GitHub
+# 5. Mi historial en GitHub
 
 <br>
 <p align="center">
@@ -134,7 +132,7 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 
 ---
 
-# 7. Para Futuras Generaciones
+# 6. Para Futuras Generaciones
 
 <img align="right" width="200px" src="https://media1.tenor.com/m/QTHsWVGT4M0AAAAd/vibe-coding-vibes.gif"/>
 
@@ -144,7 +142,7 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 
 ---
 
-# 8. Apóyame
+# 7. Apóyame
 
 Si este repositorio te ha resultado útil y quieres invitarme a un café, puedes hacerlo aquí (en la cafetería también sirve):
 
