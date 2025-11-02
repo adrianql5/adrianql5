@@ -72,11 +72,13 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
   - [License](https://github.com/adrianql5/License.git)
 
 - **Guía de Supervivencia tecnológica**
-  - [Como sobrevivir sin internet]
-  - (https://github.com/adrianql5/Survivor-Project.git)
+  - [Como sobrevivir sin internet](https://github.com/adrianql5/Survivor-Project.git)
  
 - **Hackatones**
   - [Xuntos](https://github.com/adrianql5/Xuntos.git)
+
+-**Automatizaciones con Crontab**
+  - [Sync-all](https://github.com/adrianql5/Sync-All.git)
 
 &nbsp;
 
