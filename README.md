@@ -44,11 +44,14 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 
 - [Teoría Primer Cuatri](https://github.com/adrianql5/TEORIA-2-CARRERA/tree/main)
 - [Prácticas Primer Cuatri](https://github.com/adrianql5/2-PRACTICA-1-CUATRI)
+- [Versión PDF](https://github.com/adrianql5/2-PRACTICA-1-CUATRI_PDF)
 - [Teoría Segundo Cuatri](https://github.com/adrianql5/2-TEORIA-CUATRI-2)
 - [Prácticas Segundo Cuatri](https://github.com/adrianql5/2-PRACTICA-2-CUATRI)
+- [Versión PDF](https://github.com/adrianql5/2-PRACTICA-2-CUATRI_PDF)
 
 ## 2.3 Si estás en tercero:
 - [Teoría 3º - Primer Cuatri](https://github.com/adrianql5/3-TEORIA-1-CUATRI)
+- [Versión PDF](https://github.com/adrianql5/3-TEORIA-1-CUATRI_PDF)
 
 ---
 
