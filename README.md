@@ -42,16 +42,16 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 ## 2.2 Si estás en segundo:
 <img align="right" width="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwY3JtamJkemY3bmNhY2RsMDFtb2I5bTBydHpsY290c3piYmI4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STfDsIEgsOU3S/giphy.gif" alt="Coding Vibes"/>
 
-- [Teoría Primer Cuatri](https://github.com/adrianql5/2-TEORIA-1-CUATRI). [Versión PDF](https://github.com/adrianql5/2-TEORIA-1-CUATRI_PDF)
+- [Teoría Primer Cuatri](https://github.com/adrianql5/2-TEORIA-1-CUATRI).
 - [Prácticas Primer Cuatri](https://github.com/adrianql5/2-PRACTICA-1-CUATRI)
 
-- [Teoría Segundo Cuatri](https://github.com/adrianql5/2-TEORIA-CUATRI-2). [Versión PDF](https://github.com/adrianql5/2-TEORIA-CUATRI-2_PDF)
+- [Teoría Segundo Cuatri](https://github.com/adrianql5/2-TEORIA-2-CUATRI).
 - [Prácticas Segundo Cuatri](https://github.com/adrianql5/2-PRACTICA-2-CUATRI)
 
 
 ## 2.3 Si estás en tercero:
 - [Teoría 3º - Primer Cuatri](https://github.com/adrianql5/3-TEORIA-1-CUATRI)
-- [Versión PDF](https://github.com/adrianql5/3-TEORIA-1-CUATRI_PDF)
+
 
 ---
 
