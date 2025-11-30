@@ -33,11 +33,11 @@ Mi objetivo es recopilar lo más práctico y relevante para avanzar en los estud
 
 ### 🌟 EL MILAGRO: EXÁMENES RESCATADOS Y GRADOX 🌟
 
-Antes de pasar a mis apuntes, **tenéis que ver esto**. Ha ocurrido un milagro: he encontrado el perfil de un **tipo de rumanía** que ha subido **TODOS los exámenes** del antiguo GradoX y del Drive, pero **totalmente renombrados, limpios y organizados** por cursos.
+Antes de pasar a mis apuntes, **tenéis que ver esto**. Ha ocurrido un milagro: he encontrado el perfil de un **tipo de bulgaria** que ha subido **TODOS los exámenes** del antiguo GradoX y del Drive, pero **totalmente renombrados, limpios y organizados** por cursos.
 
 Además, en su perfil encontraréis los enlaces al **GradoX Original** (con todo el contenido bruto) y al nuevo Drive con los **libros de toda la carrera**.
 
-🔗 **[ACCEDER AL PERFIL DEL RUMANO (mihaipopescuionescu)](https://github.com/mihaipopescuionescu)**
+🔗 **[ACCEDER AL PERFIL DEL BÚLGARO (mihaipopescuionescu)](https://github.com/mihaipopescuionescu)**
 
 ---
 
