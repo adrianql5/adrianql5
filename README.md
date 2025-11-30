@@ -31,6 +31,20 @@ Mi objetivo es recopilar lo más práctico y relevante para avanzar en los estud
 
 # 2. Guía Rápida
 
+### 🌟 EL MILAGRO: EXÁMENES RESCATADOS Y GRADOX 🌟
+
+Antes de pasar a mis apuntes, **tenéis que ver esto**. Ha ocurrido un milagro: he encontrado el perfil de un **hacker rumano** que ha subido **TODOS los exámenes** del antiguo GradoX y del Drive, pero **totalmente renombrados, limpios y organizados** por cursos. Es oro puro.
+
+Además, en su perfil encontraréis los enlaces al **GradoX Original** (con todo el contenido bruto) y al nuevo Drive con los **libros de toda la carrera**.
+
+🔗 **[ACCEDER AL PERFIL DEL SALVADOR (mihaipopescuionescu)](https://github.com/mihaipopescuionescu)**
+
+**Enlaces directos al tesoro:**
+* 📁 **[GradoX Original (Archivos sin renombrar)](https://drive.google.com/drive/folders/1iv_3iJG9Fh4Uhm8Q8T_RLpglAqbqVbpJ?usp=sharing)**
+* 📚 **[Drive de Libros (Toda la carrera)](PON_AQUI_EL_LINK_DE_LOS_LIBROS)**
+
+---
+
 Esta sección te ayuda a navegar por los principales recursos del repositorio según el curso en el que estés.  
 **Recuerda:** *Las prácticas del primer cuatrimestre de tercero no las subo para evitar problemas de plagio o suspensos.*
 
