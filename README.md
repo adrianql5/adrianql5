@@ -47,7 +47,7 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 
 
 ## 2.1 Si estás en primero:
-- [Teoría y práctica](https://github.com/adrianql5/PrimeroCarrera)
+- [Teoría y práctica](https://github.com/adrianql5/1-Carrera)
 
 ## 2.2 Si estás en segundo:
 <img align="right" width="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwY3JtamJkemY3bmNhY2RsMDFtb2I5bTBydHpsY290c3piYmI4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STfDsIEgsOU3S/giphy.gif" alt="Coding Vibes"/>
