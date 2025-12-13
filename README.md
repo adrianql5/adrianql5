@@ -72,6 +72,10 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 
 <img align="right" width="320px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV5empmYWh6NHE2M2JldW9zM2ExMXZkZGV3dGdra28yeTZwOG8zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBkRNdKHu8LZ75F5tR/giphy.gif"/>
 
+- **Páginas Web**
+  - https://adrianql5.github.io/
+  - [CasaAmelia](https://github.com/adrianql5/CasaAmelia.git)
+
 - **Guía sobre HyprDebian:**
   - Instalación detallada de **Debian** en Linux (con consejos y trucos para principiantes).
   - Uso de **Hyprland** en Debian: cómo configurarlo y aprovechar sus ventajas.
