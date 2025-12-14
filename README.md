@@ -74,7 +74,7 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 
 - **Páginas Web**
   - [Portfolio](https://adrianql5.github.io/)
-  - [CasaAmelia](https://adrianql5.github.io/CasaAmelia.git)
+  - [CasaAmelia](https://adrianql5.github.io/CasaAmelia/?v=1)
 
 - **Guía sobre HyprDebian:**
   - Instalación detallada de **Debian** en Linux (con consejos y trucos para principiantes).
