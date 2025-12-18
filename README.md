@@ -31,6 +31,9 @@ Mi objetivo es recopilar lo más práctico y relevante para avanzar en los estud
 
 # 2. Guía Rápida
 
+### NOVEDAD
+Ahora se pueden leer los apuntes de la carrera en versión markdown desde este enlace [ApuntesWeb](https://adrianql5.github.io/ApuntesWeb) simplemente lo añadís como marcador a vuestro navegador y no teneis por qué bajaros los pdfs para mirar la teoría.
+
 ### 🌟 EL MILAGRO: EXÁMENES RESCATADOS Y GRADOX 🌟
 
 Antes de pasar a mis apuntes, **tenéis que ver esto**. Ha ocurrido un milagro: he encontrado el perfil de un **tipo de bulgaria** que ha subido **TODOS los exámenes** del antiguo GradoX y del Drive, pero **totalmente renombrados, limpios y organizados** por cursos.
@@ -75,6 +78,7 @@ Esta sección te ayuda a navegar por los principales recursos del repositorio se
 - **Páginas Web**
   - [Portfolio](https://adrianql5.github.io/)
   - [CasaAmelia](https://adrianql5.github.io/CasaAmelia/?v=1)
+  - [ApuntesWeb](https://adrianql5.github.io/ApuntesWeb)
 
 - **Guía sobre HyprDebian:**
   - Instalación detallada de **Debian** en Linux (con consejos y trucos para principiantes).
