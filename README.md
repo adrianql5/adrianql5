@@ -83,9 +83,10 @@ Algunas prácticas no están subidas para evitar problemas.
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oziurcozy5dh2qymzlwgwt2l2q&cover_image=true&theme=default&show_offline=false&background_color=f5c211&interchange=false" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=adrianquiroga5&cover_image=true&theme=default&show_offline=false&background_color=12120b&interchange=false&profanity=false&bar_color=b1974e&bar_color_cover=false">
+  </a>
 </p>
-
 ---
 
 # Nota final
