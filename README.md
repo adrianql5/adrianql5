@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C211&height=200&section=header&text=El%20Templo&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Apuntes%20y%20cosas%20de%20la%20carrera&descSize=28&descAlign=50&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C211&height=200&section=header&text=Ing%20Informática&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Apuntes%20y%20cosas%20de%20la%20carrera&descSize=28&descAlign=50&descAlignY=75" width="100%" />
 
 ---
 
