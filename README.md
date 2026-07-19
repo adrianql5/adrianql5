@@ -4,7 +4,7 @@
 
 # Sobre esto
 
-Soy Adrián Quiroga.
+Soy Adrián Quiroga Linares.
 
 Aquí voy subiendo apuntes, prácticas y algunas cosas que me han servido durante la carrera.  
 No es nada oficial ni perfecto, simplemente material que puede ayudar a sacar asignaturas o entenderlas mejor.
@@ -27,6 +27,15 @@ Ahora todos los apuntes son accesibles desde [ApuntesWeb](https://adrianql5.gith
 - [Prácticas 2º Carrera· 2º cuatri](https://github.com/adrianql5/2-PRACTICA-2-CUATRI)
 - [Prácticas 3º Carrera· 1º cuatri](https://github.com/adrianql5/3-PRACTICA-1-CUATRI)  
 - [Prácticas 3º Carrera· 2º cuatri](https://github.com/adrianql5/3-PRACTICA-2-CUATRI)
+
+---
+
+# Proyectos Personales
+- [Hyprland para MAC-OS](https://github.com/adrianql5/Hyprland-for-MacOS)
+- [EurostarsAd](https://github.com/adrianql5/eurostarsAD)
+- [HyperDeb Setup](https://github.com/adrianql5/HyperDeb-Setup)
+- [SurvivorProject](https://github.com/adrianql5/Survivor-Project)
+- [Camino Vivo](https://github.com/adrianql5/CaminoVivo)
 
 ---
 
