@@ -18,43 +18,12 @@ No es nada oficial ni perfecto, simplemente material que puede ayudar a sacar as
 
 # Apuntes online
 
-Puedes ver los apuntes directamente desde aquí sin descargar nada:  
 [ApuntesWeb](https://adrianql5.github.io/ApuntesWeb)
 
----
-
-# Organización
-
-## 1º
-- [Teoría y prácticas](https://github.com/adrianql5/1-Carrera)
-
-## 2º
-- [Teoría · 1º cuatri](https://github.com/adrianql5/2-TEORIA-1-CUATRI)  
-- [Prácticas · 1º cuatri](https://github.com/adrianql5/2-PRACTICA-1-CUATRI)  
-- [Teoría · 2º cuatri](https://github.com/adrianql5/2-TEORIA-2-CUATRI)  
-- [Prácticas · 2º cuatri](https://github.com/adrianql5/2-PRACTICA-2-CUATRI)
-
-## 3º
-- [Teoría · 1º cuatri](https://github.com/adrianql5/3-TEORIA-1-CUATRI)
-
-Algunas prácticas no están subidas para evitar problemas.
-
----
-
-# Proyectos y cosas útiles
-
-## Web
-- [Portfolio](https://adrianql5.github.io/)  
-- [CasaAmelia](https://adrianql5.github.io/CasaAmelia/?v=1)  
-- [ApuntesWeb](https://adrianql5.github.io/ApuntesWeb)  
-- [Juego para Previas](https://adrianql5.github.io/Previas)
-
-## Guías
-- [HyprDebian](https://github.com/adrianql5/HyperDeb-Setup.git)  
-- [Survivor Project](https://github.com/adrianql5/Survivor-Project.git)
-
-## Otros
-- [Xuntos](https://github.com/adrianql5/Xuntos.git)
+- [Prácticas 2º Carrera · 1º cuatri](https://github.com/adrianql5/2-PRACTICA-1-CUATRI)  
+- [Prácticas 2º Carrera· 2º cuatri](https://github.com/adrianql5/2-PRACTICA-2-CUATRI)
+- [Prácticas 3º Carrera· 1º cuatri](https://github.com/adrianql5/3-PRACTICA-1-CUATRI)  
+- [Prácticas 3º Carrera· 2º cuatri](https://github.com/adrianql5/3-PRACTICA-2-CUATRI)
 
 ---
 
