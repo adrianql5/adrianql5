@@ -14,6 +14,8 @@ No es nada oficial ni perfecto, simplemente material que puede ayudar a sacar as
 - No está todo siempre actualizado
 - Úsalo como apoyo, no para copiar sin mirar
 
+Cualquier duda o cosa que se pueda mejorar mandadme un msg por whatsapp (o un bizum).
+
 ---
 
 # Apuntes 
