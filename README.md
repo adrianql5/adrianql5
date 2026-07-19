@@ -70,6 +70,7 @@ Ahora todos los apuntes son accesibles desde [ApuntesWeb](https://adrianql5.gith
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=adrianquiroga5&cover_image=true&theme=default&show_offline=false&background_color=f5c20b&interchange=false&profanity=false&bar_color=b1974e&bar_color_cover=false">
   </a>
 </p>
+
 ---
 
 # Nota final
