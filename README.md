@@ -16,10 +16,13 @@ No es nada oficial ni perfecto, simplemente material que puede ayudar a sacar as
 
 ---
 
-# Apuntes online
+# Apuntes 
 
-[ApuntesWeb](https://adrianql5.github.io/ApuntesWeb)
+## Apuntes
+Ahora todos los apuntes son accesibles desde [ApuntesWeb](https://adrianql5.github.io/ApuntesWeb) porque así reduzco el número de repositorios que tengo. Ahora se pueden descargar los apuntes en versión pdf directamente desde la web.
 
+## Prácticas de cada curso
+- [Prácticas 1º Carrera](https://github.com/adrianql5/1-PRACTICA-1-2-CUATRI)  
 - [Prácticas 2º Carrera · 1º cuatri](https://github.com/adrianql5/2-PRACTICA-1-CUATRI)  
 - [Prácticas 2º Carrera· 2º cuatri](https://github.com/adrianql5/2-PRACTICA-2-CUATRI)
 - [Prácticas 3º Carrera· 1º cuatri](https://github.com/adrianql5/3-PRACTICA-1-CUATRI)  
