@@ -21,7 +21,7 @@ Cualquier duda o cosa que se pueda mejorar mandadme un msg por whatsapp (o un bi
 # Apuntes 
 
 ## Apuntes
-Ahora todos los apuntes son accesibles desde [ApuntesWeb](https://adrianql5.github.io/ApuntesWeb) porque así reduzco el número de repositorios que tengo. Ahora se pueden descargar los apuntes en versión pdf directamente desde la web.
+Ahora todos los apuntes son accesibles desde [ApuntesWeb](https://adrianql5.github.io/ApuntesWeb) porque así reduzco el número de repositorios que tengo. Ahora se pueden descargar los apuntes en versión pdf directamente desde la web. Las opiniones y consejos sobre las asignaturas y profesores están también incluídas en la web.
 
 ## Prácticas de cada curso
 - [Prácticas 1º Carrera](https://github.com/adrianql5/1-PRACTICA-1-2-CUATRI)  
