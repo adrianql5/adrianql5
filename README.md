@@ -76,16 +76,6 @@ Ahora todos los apuntes son accesibles desde [ApuntesWeb](https://adrianql5.gith
 
 ---
 
-<!-- Descomentar cuando haya fotos en fotos/ (el workflow "Foto del dia" las rota cada día)
-# Fuera del código
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adrianql5/adrianql5/foto-del-dia/foto-del-dia.jpg" width="400" />
-</p>
-
----
--->
-
 # Nota final
 
 Si te sirve, perfecto.  
