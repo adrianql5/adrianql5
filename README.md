@@ -1,7 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C211&height=200&section=header&text=Ing%20Informática&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Apuntes%20y%20cosas%20de%20la%20carrera&descSize=28&descAlign=50&descAlignY=75" width="100%" />
-
----
-
 # Sobre esto
 
 Soy Adrián Quiroga Linares.
@@ -62,6 +58,13 @@ Ahora todos los apuntes son accesibles desde [ApuntesWeb](https://adrianql5.gith
 # GitHub
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianql5/adrianql5/output/github-snake-dark.svg" />
+    <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/adrianql5/adrianql5/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianql5&theme=gruvbox" />
 </p>
 
@@ -73,12 +76,18 @@ Ahora todos los apuntes son accesibles desde [ApuntesWeb](https://adrianql5.gith
 
 ---
 
+<!-- Descomentar cuando haya fotos en fotos/ (el workflow "Foto del dia" las rota cada día)
+# Fuera del código
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adrianql5/adrianql5/foto-del-dia/foto-del-dia.jpg" width="400" />
+</p>
+
+---
+-->
+
 # Nota final
 
 Si te sirve, perfecto.  
 Si encuentras algo mal, dímelo y lo arreglo.
 Si lo usas, que sea para entenderlo.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C211&height=150&section=footer" width="100%" />

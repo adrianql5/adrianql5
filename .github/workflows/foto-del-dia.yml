@@ -1,0 +1,38 @@
+name: Foto del dia
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # Ejecuta cada día a las 6:00 UTC
+  workflow_dispatch:
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pick random photo
+        id: pick
+        run: |
+          shopt -s nullglob nocaseglob
+          fotos=(fotos/*.{jpg,jpeg,png,gif,webp})
+          if [ ${#fotos[@]} -eq 0 ]; then
+            echo "No hay fotos en fotos/, nada que hacer"
+            echo "found=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          foto="${fotos[RANDOM % ${#fotos[@]}]}"
+          echo "Foto elegida: $foto"
+          mkdir -p dist
+          cp "$foto" dist/foto-del-dia.jpg
+          echo "found=true" >> "$GITHUB_OUTPUT"
+
+      - name: Push to foto-del-dia branch
+        if: steps.pick.outputs.found == 'true'
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: foto-del-dia
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
